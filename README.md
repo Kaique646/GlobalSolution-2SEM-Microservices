@@ -16,8 +16,8 @@ Certifique-se de ter essas configurações instaladas em seu ambiente antes de e
 
 O projeto utiliza o MySQL como banco de dados. Certifique-se de criar um banco de dados com o nome desejado e ajuste as configurações de conexão no arquivo `application.properties` conforme necessário.
 
-```
-properties
+
+### properties
 spring.datasource.url=jdbc:mysql://localhost:3306/seu_banco_de_dados
 spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
