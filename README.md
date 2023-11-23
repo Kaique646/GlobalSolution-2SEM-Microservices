@@ -18,9 +18,9 @@ O projeto utiliza o MySQL como banco de dados. Certifique-se de criar um banco d
 
 
 ### properties
-spring.datasource.url=jdbc:mysql://localhost:3306/seu_banco_de_dados
-spring.datasource.username=seu_usuario
-spring.datasource.password=sua_senha
+- spring.datasource.url=jdbc:mysql://localhost:3306/seu_banco_de_dados
+- spring.datasource.username=seu_usuario
+- spring.datasource.password=sua_senha
 
 
 
