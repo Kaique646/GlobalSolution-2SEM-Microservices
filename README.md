@@ -33,8 +33,8 @@ spring.datasource.password=sua_senha
   - **Descrição**: Recupera todos os objetivos.
   - **Exemplo**: `http://localhost:8080/objetivos`
 
-  ![Objetivos Endpoint]
-    <img src="postman1.png">
+![postman1](https://github.com/Kaique646/GlobalSolution-2SEM-Microservices/assets/80988490/95608dbc-a6fd-4b04-853d-c26dd59c4f69)
+
 
 ### Indicadores por ID
 
@@ -43,8 +43,7 @@ spring.datasource.password=sua_senha
   - **Descrição**: Recupera os indicadores para um determinado ID.
   - **Exemplo**: `http://localhost:8080/indicadores/1`
 
-  ![Indicadores por ID Endpoint]
-   <img src="postman2.png">
+![postman2](https://github.com/Kaique646/GlobalSolution-2SEM-Microservices/assets/80988490/b6e80746-2698-40d4-9c24-8ca3129008a8)
 
 ## Como Executar o Projeto
 
