@@ -33,7 +33,7 @@ spring.datasource.password=sua_senha
   - **Exemplo**: `http://localhost:8080/objetivos`
 
   ![Objetivos Endpoint]
-  <img src="/postman1.png>
+<img src="/postman1.png">
 
 ### Indicadores por ID
 
@@ -43,7 +43,7 @@ spring.datasource.password=sua_senha
   - **Exemplo**: `http://localhost:8080/indicadores/1`
 
   ![Indicadores por ID Endpoint]
-   <img src="/postman2.png>
+   <img src="/postman2.png">
 
 ## Como Executar o Projeto
 
