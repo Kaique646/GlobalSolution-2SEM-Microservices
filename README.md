@@ -16,13 +16,14 @@ Certifique-se de ter essas configurações instaladas em seu ambiente antes de e
 
 O projeto utiliza o MySQL como banco de dados. Certifique-se de criar um banco de dados com o nome desejado e ajuste as configurações de conexão no arquivo `application.properties` conforme necessário.
 
-```properties
+```
+properties
 spring.datasource.url=jdbc:mysql://localhost:3306/seu_banco_de_dados
 spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
 
 
-```markdown
+
 ## Endpoints
 
 ### Objetivos
@@ -33,7 +34,7 @@ spring.datasource.password=sua_senha
   - **Exemplo**: `http://localhost:8080/objetivos`
 
   ![Objetivos Endpoint]
-<img src="/postman1.png">
+    <img src="postman1.png">
 
 ### Indicadores por ID
 
@@ -43,7 +44,7 @@ spring.datasource.password=sua_senha
   - **Exemplo**: `http://localhost:8080/indicadores/1`
 
   ![Indicadores por ID Endpoint]
-   <img src="/postman2.png">
+   <img src="postman2.png">
 
 ## Como Executar o Projeto
 
