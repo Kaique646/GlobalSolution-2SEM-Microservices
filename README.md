@@ -32,7 +32,8 @@ spring.datasource.password=sua_senha
   - **Descrição**: Recupera todos os objetivos.
   - **Exemplo**: `http://localhost:8080/objetivos`
 
-  ![Objetivos Endpoint](link_da_imagem_objetivos)
+  ![Objetivos Endpoint]
+  <img src="/postman1.png>
 
 ### Indicadores por ID
 
@@ -41,7 +42,8 @@ spring.datasource.password=sua_senha
   - **Descrição**: Recupera os indicadores para um determinado ID.
   - **Exemplo**: `http://localhost:8080/indicadores/1`
 
-  ![Indicadores por ID Endpoint](link_da_imagem_indicadores)
+  ![Indicadores por ID Endpoint]
+   <img src="/postman2.png>
 
 ## Como Executar o Projeto
 
@@ -52,6 +54,3 @@ spring.datasource.password=sua_senha
 
 Agora você pode acessar os endpoints mencionados acima.
 
-**Observação**: As imagens dos endpoints fornecidas são apenas exemplos e devem ser substituídas pelos links reais do seu ambiente local. Certifique-se de gerar essas imagens para uma documentação mais precisa.
-
-Este é um projeto inicial e pode ser expandido conforme necessário para atender aos requisitos específicos do seu curso. Boa codificação!
