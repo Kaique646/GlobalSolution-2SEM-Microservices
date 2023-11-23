@@ -14,7 +14,7 @@ Certifique-se de ter essas configurações instaladas em seu ambiente antes de e
 
 ## Configuração do Banco de Dados
 
-O projeto utiliza o MySQL como banco de dados. Certifique-se de criar um banco de dados com o nome desejado e ajuste as configurações de conexão no arquivo `application.properties` conforme necessário.
+O projeto utiliza o MySQL como banco de dados. Certifique-se de criar um banco de dados com o nome "ods", em seguida utilize o script sql disponibilizado, e ajuste as configurações de conexão no arquivo `application.properties` conforme necessário.
 
 
 ### properties
